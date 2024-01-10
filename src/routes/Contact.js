@@ -9,7 +9,7 @@ function Contact(){
          <Navbar />
        <Hero
        cName="hero-mid"
-       heroImg={AboutImg}
+       HeroImg={AboutImg}
        title="Contact"
        
        btnClass="hide"

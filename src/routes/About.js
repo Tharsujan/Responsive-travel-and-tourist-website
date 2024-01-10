@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg from "../assests/1.avif"
+import AboutImg from "../assests/h1.jpeg"
 import Footer from "../components/Footer";
 import Aboutus from "../components/Aboutus";
 
@@ -10,7 +10,7 @@ function About(){
         <Navbar />
        <Hero
        cName="hero-mid"
-       heroImg={AboutImg}
+       HeroImg={AboutImg}
        title="About"
        
        btnClass="hide"

@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg from "../assests/1.avif"
+import AboutImg from "../assests/2.jpg"
 import Footer from "../components/Footer";
 import Trip from "../components/Trip"
 
@@ -10,7 +10,7 @@ function Service(){
         <Navbar />
        <Hero
        cName="hero-mid"
-       heroImg={AboutImg}
+       HeroImg={AboutImg}
        title="Service"
        
        btnClass="hide"
